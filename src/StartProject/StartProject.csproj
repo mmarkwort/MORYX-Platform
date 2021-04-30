@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DependentTestModule\Moryx.DependentTestModule.csproj" />
+    <ProjectReference Include="..\Moryx.Runtime.Kestrel.Test\Moryx.Runtime.Kestrel.Test.csproj" />
     <ProjectReference Include="..\Moryx.Runtime.Maintenance\Moryx.Runtime.Maintenance.csproj" />
     <ProjectReference Include="..\Moryx.Runtime.DbUpdate\Moryx.Runtime.DbUpdate.csproj" />
     <ProjectReference Include="..\Moryx.Runtime.SmokeTest\Moryx.Runtime.SmokeTest.csproj" />
